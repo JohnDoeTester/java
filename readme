@@ -1,5 +1,2 @@
-this is readme file 
-set of instruction to run this webapp 
-mvn clean install 
-this is new change 
-this is change for master 
+GITHUB-ACTIONS WORKFLOW IS FOR CI/CD PIPELINE FOR JAVA.
+CODE BUILD AND DEPLOYED IN TOMCAT SERVER IN SYNCHRONIZATION WAY. 
